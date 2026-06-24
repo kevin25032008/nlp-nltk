@@ -1,0 +1,7 @@
+streamlit
+spacy
+nltk
+deep_translator
+pydantic
+pydantic-core
+typing_extensions
